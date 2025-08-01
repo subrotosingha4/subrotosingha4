@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrotosingha4&label=Profile%20views&color=0e75b6&style=flat" alt="subrotosingha4" /> </p>
 
+- 🌱 I’m currently learning **GAN, model deployment, AWS**
+
+- 👯 I’m looking to collaborate on **ML/DL**
+
+- 💬 Ask me about **Python, Data Science**
+
+- 📫 How to reach me **subroto.singha4@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subrotosingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrotosingha" height="30" width="40" /></a>
