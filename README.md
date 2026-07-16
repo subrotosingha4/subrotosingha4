@@ -6,13 +6,7 @@ I build production AI systems — RAG pipelines, LLM agents, fine-tuning, and ML
 
 ## 🎓 Teaching
 
-- **The Complete AI Engineer & Forward Deployed Engineer Bootcamp** (Udemy) — 15 modules taking you from zero Python to deploying production AI systems: RAG, agents, fine-tuning, and MLOps. *(course repo link coming soon)**
-
-## 🔨 Selected work
-
-- **[drone-detection-yolov5](https://github.com/subrotosingha4/drone-detection-yolov5)** — real-time drone detection with YOLOv5 (graduate research)
-- **[YOLOV4-Tutorial](https://github.com/subrotosingha4/YOLOV4-Tutorial)** — step-by-step guide to training YOLOv4 on a custom dataset
-- **[django-template](https://github.com/subrotosingha4/django-template)** — reusable Django project starter
+- **The Complete AI Engineer & Forward Deployed Engineer Bootcamp** (Udemy) — 15 modules taking you from zero Python to deploying production AI systems: RAG, agents, fine-tuning, and MLOps. *(course repo link coming soon)*
 
 ## 🧰 Working with
 
@@ -20,6 +14,6 @@ Python · PyTorch · Transformers · LangChain · FastAPI · Docker · AWS · Po
 
 ## 📫 Reach me
 
+- Website: [subrotosingha4.github.io](https://subrotosingha4.github.io/)
 - Email: subroto.singha4@gmail.com
 - LinkedIn: [linkedin.com/in/subrotosingha](https://linkedin.com/in/subrotosingha)
-- Website: [subrotosingha.com](https://www.subrotosingha.com/)
