@@ -6,7 +6,7 @@ I build production AI systems — RAG pipelines, LLM agents, fine-tuning, and ML
 
 ## 🎓 Teaching
 
-- **The Complete AI Engineer & Forward Deployed Engineer Bootcamp** (Udemy) — 15 modules taking you from zero Python to deploying production AI systems: RAG, agents, fine-tuning, and MLOps. *(course repo link coming soon)*
+- **The Complete AI Engineer & Forward Deployed Engineer Bootcamp** (Udemy) — 15 modules taking you from zero Python to deploying production AI systems: RAG, agents, fine-tuning, and MLOps. [Course repo](https://github.com/subrotosingha4/ai-engineer-fde-bootcamp)
 
 ## 🧰 Working with
 
